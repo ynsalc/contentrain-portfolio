@@ -11,7 +11,10 @@ author:
   name: "Yunus Alıcı"
   picture: "public/assets/1655051482917_profile-image.jpeg"
   createdAt: 1655051484261
-ogImage: []
+ogImage:
+  ID: "60a69b9f-a64b-439c-a20e-37a637c171fc"
+  url: "public/assets/1655051502854_profile-image.jpeg"
+  createdAt: 1655051503994
 createdAt: 1655051438128
 
 ---
