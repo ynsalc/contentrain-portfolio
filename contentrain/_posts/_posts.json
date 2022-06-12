@@ -89,7 +89,12 @@
     "content": "Contentrain ile Nextjs uygulama geliştirme nasıl yapılır öğrenelim.",
     "description": "Contentrain teknoloji tabanlı şirketlerin, startupların, bağımsız geliştiricilerin ve geliştirici adaylarının web/mobil yazılım geliştirme süreçlerindeki en önemli ihtiyaçlarından biri olan içerik yönetim süreçlerine pratik ve yenilikçi bir yaklaşımla etkili çözüm sunan içerik yönetim sistemidir.",
     "coverImage": "public/assets/1655049703818_lllkk.jpeg",
-    "author": [],
+    "author": {
+      "ID": "36072dc4-213e-475d-bd86-a91ea6455069",
+      "name": "Yunus Alıcı",
+      "picture": "public/assets/1655049982827_profile-image.jpeg",
+      "createdAt": 1655049984557
+    },
     "ogImage": [],
     "createdAt": 1655049707345
   }
