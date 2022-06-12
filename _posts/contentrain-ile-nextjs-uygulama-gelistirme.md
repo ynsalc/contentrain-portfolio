@@ -4,6 +4,7 @@ categories:
   - "Next.js"
 tags:
   - "Next.js"
+  - "Contentrain"
 slug: "contentrain-ile-nextjs-uygulama-gelistirme"
 title: "Contentrain ile Nextjs uygulama geliştirme"
 description: "Contentrain teknoloji tabanlı şirketlerin, startupların, bağımsız geliştiricilerin ve geliştirici adaylarının web/mobil yazılım geliştirme süreçlerindeki en önemli ihtiyaçlarından biri olan içerik yönetim süreçlerine pratik ve yenilikçi bir yaklaşımla etkili çözüm sunan içerik yönetim sistemidir."
