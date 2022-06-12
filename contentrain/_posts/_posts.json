@@ -85,7 +85,9 @@
     "categories": [
       "Next.js"
     ],
-    "tags": [],
+    "tags": [
+      "Next.js"
+    ],
     "slug": "contentrain-ile-nextjs-uygulama-gelistirme",
     "title": "Contentrain ile Nextjs uygulama geliştirme",
     "content": "Contentrain ile Nextjs uygulama geliştirme nasıl yapılır öğrenelim.",
