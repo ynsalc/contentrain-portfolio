@@ -1,6 +1,7 @@
 ---
 ID: "e6c5391d-4981-4e98-bef2-16e842f8dc54"
-categories: []
+categories:
+  - "Next.js"
 tags: []
 slug: "contentrain-ile-nextjs-uygulama-gelistirme"
 title: "Contentrain ile Nextjs uygulama geliştirme"
